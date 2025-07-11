@@ -60,7 +60,7 @@ This project provides a PowerShell script (`BloodHoundLab.ps1`) to automate the 
 - HITMAN949
 
 ## Version
-- 2.1 
+- 1.0 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
